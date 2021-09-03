@@ -1,0 +1,24 @@
+.inputContainer {
+  display: flex;
+  align-items: center;
+  padding: 10px 0px 10px;
+  border-bottom: 1px solid #023d7d27;
+}
+.label {
+  color: #023e7d;
+  font-weight: normal;
+  margin-right: 20px;
+  width: 160px;
+  padding-left: 20px;
+}
+.input {
+  display: block;
+  width: 300px;
+  padding: 15px 10px 15px;
+  border: none;
+  background-color: transparent;
+  color: grey;
+  font-family: "Share Tech Mono", monospace;
+  font-size: 1.1rem;
+  outline: none;
+}

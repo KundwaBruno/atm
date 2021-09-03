@@ -1,0 +1,17 @@
+.loaderContainer {
+  position: absolute;
+  z-index: 3;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.801);
+}
+
+.loaderContainer i {
+  font-size: 35px;
+  color: green;
+  margin-bottom: 10px;
+}

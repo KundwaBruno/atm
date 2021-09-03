@@ -1,0 +1,40 @@
+.popContainer {
+  position: absolute;
+  top: 0;
+  height: 116%;
+  width: 100%;
+  border-radius: 20px;
+  margin-left: -47px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.377);
+}
+
+.popBox {
+  width: 50%;
+  margin: auto;
+  border-radius: 10px;
+  background-color: white;
+  min-height: 400px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
+
+.header div {
+  flex: 0.5;
+  text-align: right;
+  font-size: 1.5rem;
+}
+
+.header div:last-child {
+  text-align: right;
+  cursor: pointer;
+}

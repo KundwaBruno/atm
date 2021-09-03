@@ -1,0 +1,8 @@
+.layoutContainer {
+  width: 50vw;
+  height: 90vh;
+  margin: auto;
+  margin-top: 5vh;
+  background-color: white;
+  border-radius: 30px;
+}
